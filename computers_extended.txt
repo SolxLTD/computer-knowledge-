@@ -1,0 +1,89 @@
+Computers: Extended Reference Text
+
+1. Computer Hardware
+
+Computer hardware refers to the physical components of a computer
+system. This includes the central processing unit (CPU), memory (RAM),
+storage devices such as SSDs and HDDs, input devices like keyboards and
+mice, and output devices such as monitors and printers. Modern hardware
+also includes GPUs for graphics processing and specialized accelerators
+for AI workloads.
+
+2. Computer Software
+
+Software is the set of instructions that tells the hardware what to do.
+System software includes operating systems like Windows, Linux, and
+macOS. Application software includes web browsers, word processors,
+video editors, and games. Utility software handles system maintenance
+tasks.
+
+3. Operating Systems
+
+Operating systems manage hardware resources and provide services to
+applications. They control memory management, process scheduling, file
+systems, and device drivers. Popular operating systems include Microsoft
+Windows, Apple macOS, and Linux distributions such as Ubuntu and Fedora.
+
+4. Networking and the Internet
+
+Computer networks enable communication between multiple machines. A
+network can be local (LAN) or wide-area (WAN). The internet is a global
+network connecting millions of devices. Common networking devices
+include routers, switches, and modems. Networking protocols include
+TCP/IP, HTTP, and DNS.
+
+5. Cybersecurity
+
+Cybersecurity focuses on protecting computer systems from attacks.
+Threats include malware, phishing, ransomware, and hacking attempts.
+Security measures include firewalls, encryption, authentication, and
+regular software updates. Ethical hacking and penetration testing help
+identify system vulnerabilities.
+
+6. Artificial Intelligence and Machine Learning
+
+AI enables computers to perform tasks that typically require human
+intelligence. Machine learning trains models on data to recognize
+patterns and make predictions. Deep learning uses neural networks to
+power applications such as facial recognition, language translation, and
+autonomous vehicles.
+
+7. Databases and Data Management
+
+Databases store and organize data for easy retrieval and manipulation.
+Relational database management systems (RDBMS) like MySQL and PostgreSQL
+use structured tables, while NoSQL databases like MongoDB and Redis
+offer flexibility for unstructured data. SQL is the standard language
+for interacting with relational databases.
+
+8. Cloud Computing
+
+Cloud computing provides on‑demand access to computing resources over
+the internet. Services include Infrastructure as a Service (IaaS),
+Platform as a Service (PaaS), and Software as a Service (SaaS). Major
+providers include Amazon Web Services (AWS), Microsoft Azure, and Google
+Cloud Platform (GCP).
+
+9. Computer Programming
+
+Programming is the process of writing code to instruct a computer.
+Popular programming languages include Python, JavaScript, Java, C++, and
+Go. Programs can be compiled or interpreted depending on the language
+design. Developers use version control systems like Git to manage
+changes to code.
+
+10. Computer Architecture
+
+Computer architecture describes how computer systems are designed at the
+hardware level. Topics include CPU instruction sets, memory hierarchy,
+parallel processing, pipelining, and input/output operations. Modern
+architectures often use multicore processors and hardware
+virtualization.
+
+11. The Future of Computing
+
+Emerging fields include quantum computing, edge computing, and
+bio‑inspired computing. Quantum computers aim to solve problems that are
+currently impossible for classical machines. Edge computing brings
+computation closer to devices, reducing latency for real‑time
+applications.
